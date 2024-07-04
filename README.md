@@ -1,5 +1,5 @@
 # SwiftChat
-SwiftChat adds a menubar icon to your Mac, to give quick and easy access to ChatGPT with a click. It's like Windows Copilot, but for Mac.
+SwiftChat adds a menubar icon to your Mac, to give quick and easy access to ChatGPT with a click.
 
 To make it run automatically on startup, manually add it via Apple > System Settings > General > Login Items > Click the +, then navigate to your Applications folder and select SwiftChat.
 
